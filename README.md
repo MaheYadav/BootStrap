@@ -8,4 +8,6 @@ Copy the below two lines code in head tag.
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   
- Lets Start run above Examples.
+ Lets Start run above Examples. 
+ 
+ Same steps to write code as well as  html file. 
